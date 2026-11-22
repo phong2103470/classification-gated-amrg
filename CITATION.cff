@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Nếu bạn sử dụng tài liệu hoặc mã nguồn từ repository này, vui lòng trích dẫn theo thông tin dưới đây."
+type: software
+title: "Classification-Gated Structured Medical Report Generation from Multi-View Chest X-Rays"
+authors:
+  - family-names: "Dao"
+    given-names: "Tran Quoc Phong"
+    orcid: "https://orcid.org/0009-0000-2486-5488"
+    affiliation: "Can Tho University"
+    email: "phongm2526013@gstudent.ctu.edu.vn"
+version: 1.0.0
+date-released: 2026-11-22
+license: MIT
+repository-code: "https://github.com/phong2103470/classification-gated-amrg"
+keywords:
+  - "Medical Report Generation"
+  - "Structured Radiology Report"
+  - "Long-Tailed Multi-Label Classification"
+  - "Swin-Transformer V2"
+  - "RadGraph-XL"
